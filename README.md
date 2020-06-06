@@ -1,4 +1,4 @@
-# NWL---Rocketseat
+# NWL - Rocketseat
 
 Foco, e atenção aos detalhes. Foi assim que consegui passar por uma semana cheia de estudos, e novidades, sempre prestando atenção nos conhecimentos novos, mas também revisando os antigos. 
 
